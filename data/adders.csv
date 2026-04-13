@@ -1,0 +1,33 @@
+﻿brand,window_type,adder_name,adder_type,adder_value
+AMSCO,ALL,Tempered,$,400
+AMSCO,ALL,Privacy,$,200
+AMSCO,ALL,Grids,$,300
+AMSCO,ALL,Glass270,$,0
+AMSCO,ALL,Glass366,$,150
+AMSCO,ALL,Glass340,$,200
+AMSCO,ALL,ColorWhite,%,0
+AMSCO,ALL,ColorTaupe,%,10
+AMSCO,ALL,ColorBlack,%,80
+AMSCO,ALL,ColorBronze,%,80
+AMSCO,ALL,SeriesHampton,%,30
+Marvin Essential,ALL,Tempered,$,400
+Marvin Essential,ALL,Privacy,$,200
+Marvin Essential,ALL,Grids,$,300
+Marvin Essential,ALL,Glass270,$,0
+Marvin Essential,ALL,Glass366,$,150
+Marvin Essential,ALL,Glass340,$,200
+Marvin Essential,ALL,ColorWhite,%,0
+Marvin Essential,ALL,ColorTaupe,%,10
+Marvin Essential,ALL,ColorBlack,%,15
+Marvin Essential,ALL,ColorBronze,%,15
+Andersen 100,ALL,Tempered,$,400
+Andersen 100,ALL,Privacy,$,200
+Andersen 100,ALL,Grids,$,300
+Andersen 100,ALL,Glass270,$,0
+Andersen 100,ALL,Glass366,$,150
+Andersen 100,ALL,Glass340,$,200
+Andersen 100,ALL,ColorWhite,%,0
+Andersen 100,ALL,ColorTaupe,%,10
+Andersen 100,ALL,ColorBlack,%,80
+Andersen 100,ALL,ColorBronze,%,80
+Andersen 100,ALL,BrandPremium,%,35
