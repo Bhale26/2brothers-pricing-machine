@@ -13,6 +13,15 @@ ALLOWED_EMAILS = {
     "braxton@2brotherswindows.com",
     "ben@2brotherswindows.com",
     "karsen@2brotherswindows.com",
+    "josh@2brotherswindows.com",
+    "abigail@2brotherswindows.com",
+    "tyler@2brotherswindows.com",
+    "jacob@2brotherswindows.com",
+    "hayden@2brotherswindows.com",
+    "bradford@2brotherswindows.com",
+    "jazz@2brotherswindows.com",
+    "bryson@2brotherswindows.com",
+    "robby@2brotherswindows.com",	
 }
 
 def login_gate() -> None:
